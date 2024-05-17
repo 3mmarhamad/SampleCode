@@ -64,3 +64,5 @@ public class CodeFrontWebApplicationException extends HttpClientErrorException {
         return this.rawMessage;
     }
 }
+
+s* @إعادة الرسالة الخام. */ سلسلة عامة getRawMessage() { إرجاع هذه الرسالة.raw؛ } }  serialVersionUID* @إعادة الرسالة الخام. */ سلسلة عامة getRawMessage() { Red هذه الرسالة.raw;* @إعادة الرسالة الخام. */ سلسلة عامة getRawMessage() { إرجاع هذه الرسالة.raw؛ } } y* @إعادة الرسالة الخام. */ سلسلة عامة getRawMessage() { Red Thissetel.raw; } } * @إعادة الرسالة الخام. */ سلسلة عامة getRawMessage() { إرجاع هذه الرسالة.raw؛ } }HttpClientErrorException
